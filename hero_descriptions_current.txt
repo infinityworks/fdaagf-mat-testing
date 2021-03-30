@@ -1,0 +1,28 @@
+Gain 50 fish immediately.
+Gain 50 grain immediately.
+Gain 50 gold immediately.
+Gain 50 meat immediately.
+Remove any of your opponent's offering this round over 40 units.
+Add 40 units to your offering this round.
+Gain 15 units of each resource immediately.
+Double your offering this round.
+Increase two random workers' proficiency by two immediately.
+Increase all non-proficient workers by one proficiency immediately.
+At random, half of your opponents' workers (rounded down).
+From now on (for a time?) new workers begin at one procifiency on their first assignment.
+Immediately reset proficiency of workers in both player's most populous buildings.
+Immediately kill (steal?) 1/2 opponent workers.
+If your opponent sacrifices no heroes this round, automatically win (you may still make an offering).
+Receive half (rounded down) the value of your opponents' offering this round as a random resource.
+Reroll the all rounds' offering resource, including this round (the same resources cannot be rolled).
+Change next round's resource to your choosing.
+See your opponent's offered heroes from now on.
+Randomize your opponent's worker placement. They maintain their proficiencies.
+20(?) of your resource units are moved to your offering. You and your opponent switch offerings. (Unplayable without 20 units?)
+Add 10 units to your offering this round per hero sacrificed by you in previous rounds.
+Your workers produce 10 extra units of a resource each round from now on. The resource is randomly chosen each round.
+Your next sacrificed hero is returned to you once.
+Randomly rearrange your oppponent's resource units. (might be a bad idea?)
+Exchange 40 gold for two heroes.
+Exchange 40 grain for two workers.
+Exchange 40 paper? fish? to be offered an additional hero from now on.
