@@ -21,17 +21,18 @@ async function getHeroes() {
 
         console.log(`length of read: ${heroInstance.heroes.length}`)
         console.log(heroInstance.heroes)
+        
+        const arrayToWrite = shuffle(heroInstance.heroes)
+        const stringToWrite = arrayToWrite.join("\n")
+    
+        fs.writeFile("hero_descriptions_shuffled.txt", stringToWrite, function(err) {
+            if(err) {
+                return console.log(err)
+            }
+            console.log("Heroes successfully shuffled!\nRun 'node draw_hero_card.js #',\nreplacing # with the number of heroes to draw.")
+        })
     })
 
-    const arrayToWrite = shuffle(heroInstance.heroes)
-    const stringToWrite = arrayToWrite.join("\n")
-
-    fs.writeFile("hero_descriptions_shuffled.txt", stringToWrite, function(err) {
-        if(err) {
-            return console.log(err)
-        }
-        console.log("Heroes successfully shuffled!\nRun 'node draw_hero_card.js #',\nreplacing # with the number of heroes to draw.")
-    })
 }
 
 
