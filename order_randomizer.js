@@ -19,9 +19,6 @@ async function getHeroes() {
             .split("\n")
             .filter(hero => hero.length > 5) //all hero descriptions should be more than 5 characters long
 
-        console.log(`length of read: ${heroInstance.heroes.length}`)
-        console.log(heroInstance.heroes)
-        
         const arrayToWrite = shuffle(heroInstance.heroes)
         const stringToWrite = arrayToWrite.join("\n")
     
